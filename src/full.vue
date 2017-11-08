@@ -10,7 +10,7 @@
 </style>
 
 <script>
-  import ECharts from 'echarts';
+  let ECharts = require('echarts');
   import Debounce from 'lodash.debounce';
   // import Resize from 'element-resize-event';
   import Resize from 'element-resize-detector';

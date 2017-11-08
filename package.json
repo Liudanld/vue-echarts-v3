@@ -29,7 +29,7 @@
     "start": "webpack-dev-server --inline --hot --config build/webpack.dev.conf.js"
   },
   "dependencies": {
-    "echarts": "git+https://github.com/TheLostlyp/echarts.git",
+    "echarts": "latest",
     "element-resize-detector": "latest",
     "element-resize-event": "latest",
     "lodash.debounce": "latest",
