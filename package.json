@@ -29,7 +29,7 @@
     "start": "webpack-dev-server --inline --hot --config build/webpack.dev.conf.js"
   },
   "dependencies": {
-    "echarts": "latest",
+    "echarts": "3.7.2",
     "element-resize-detector": "latest",
     "element-resize-event": "latest",
     "lodash.debounce": "latest",
